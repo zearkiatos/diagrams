@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-12T20:36:18.640Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.6.2" etag="MbOOHlCn2vIV46_LhZSH" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-12T20:45:37.556Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.6.2" etag="upYFynroGgQ4lyskYomZ" type="github">
   <diagram id="InX54NKVb0p24-yu3bKr" name="Page-1">
     <mxGraphModel dx="702" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -486,6 +486,35 @@
         </mxCell>
         <mxCell id="-KQnnA16aaqfj2kJiULb-325" value="Actualización de fuerza de venta" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="31.88" y="395.5" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-KQnnA16aaqfj2kJiULb-333" value="«component»&lt;br&gt;&lt;b&gt;:Ventas&lt;/b&gt;" style="html=1;dropTarget=0;strokeColor=#B09500;strokeWidth=1;fillColor=#e3c800;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="870" y="980" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-KQnnA16aaqfj2kJiULb-334" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=#000000;strokeWidth=1;fillColor=#e3c800;fontColor=#000000;" vertex="1" parent="-KQnnA16aaqfj2kJiULb-333">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-KQnnA16aaqfj2kJiULb-335" value="" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="940" y="900" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-KQnnA16aaqfj2kJiULb-342" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;strokeColor=default;strokeWidth=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="-KQnnA16aaqfj2kJiULb-346">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="949" y="970" as="sourcePoint" />
+            <mxPoint x="949.2899525057726" y="950.9372031610792" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-KQnnA16aaqfj2kJiULb-343" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;strokeColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="949.66" y="920" as="sourcePoint" />
+            <mxPoint x="949.66" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-KQnnA16aaqfj2kJiULb-344" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;resizable=0;points=[];outlineConnect=0;sketch=0;labelBackgroundColor=none;strokeColor=#006EAF;strokeWidth=1;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="944.5" y="944" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="-KQnnA16aaqfj2kJiULb-346" value="" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="939" y="970" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
