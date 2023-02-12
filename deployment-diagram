@@ -1,1 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2023-02-12T21:22:31.993Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.6.2" etag="6KURAMF3XUuY6NyAUviW" type="github"><diagram id="r_hKVBo__B7sIEIzkIPA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-12T21:31:45.539Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.6.2" etag="KDCkAKlY07sJSjZrFhQ9" type="github">
+  <diagram id="qR-Yz_GndOJBpORQCXmZ" name="Page-1">
+    <mxGraphModel dx="1018" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Lrm839bSvgbs-gZrIfgq-1" value="Ventas" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="110" y="120" width="590" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Lrm839bSvgbs-gZrIfgq-2" value="«component»&lt;br&gt;&lt;b&gt;:OrdenesDeCompra&lt;/b&gt;" style="html=1;dropTarget=0;strokeColor=#B09500;strokeWidth=1;fillColor=#e3c800;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="200" y="170" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Lrm839bSvgbs-gZrIfgq-3" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=#000000;strokeWidth=1;fillColor=#e3c800;fontColor=#000000;" vertex="1" parent="Lrm839bSvgbs-gZrIfgq-2">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lrm839bSvgbs-gZrIfgq-4" value="«artifact»&lt;br&gt;&lt;b&gt;Ventas DB&lt;/b&gt;" style="html=1;dropTarget=0;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="480" y="170" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Lrm839bSvgbs-gZrIfgq-5" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="Lrm839bSvgbs-gZrIfgq-4">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lrm839bSvgbs-gZrIfgq-7" value="" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;" edge="1" parent="1" source="Lrm839bSvgbs-gZrIfgq-2" target="Lrm839bSvgbs-gZrIfgq-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="410" y="230" as="sourcePoint" />
+            <mxPoint x="570" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
