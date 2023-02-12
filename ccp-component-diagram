@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-12T21:09:26.622Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.6.2" etag="uMwq2LcDmxVihQw6geTN" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-12T21:10:17.775Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.6.2" etag="0cM8iE9owvJ8IgdHUJwB" type="github">
   <diagram id="InX54NKVb0p24-yu3bKr" name="Page-1">
     <mxGraphModel dx="2262" dy="1536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -215,6 +215,9 @@
         </mxCell>
         <mxCell id="-KQnnA16aaqfj2kJiULb-419" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Gestión de inventario&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="-KQnnA16aaqfj2kJiULb-56">
           <mxGeometry x="310" y="110" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-KQnnA16aaqfj2kJiULb-430" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=1;endArrow=none;endFill=0;" edge="1" parent="-KQnnA16aaqfj2kJiULb-56" source="-KQnnA16aaqfj2kJiULb-45" target="-KQnnA16aaqfj2kJiULb-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-KQnnA16aaqfj2kJiULb-61" value="" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="550" y="125" width="20" height="20" as="geometry" />
