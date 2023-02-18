@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-18T12:14:11.813Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="kNoHKC65JjiX7RtOzS20" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-18T12:15:33.947Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="IzJUsdxu3NTyNOG3MgXm" version="20.8.20" type="github">
   <diagram name="Page-1" id="IrtzbTb00nTzBsvjJMRD">
-    <mxGraphModel dx="1710" dy="1058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2052" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -248,10 +248,10 @@
         <mxCell id="-lMbpu8mmSJ0wREfCh__-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="-lMbpu8mmSJ0wREfCh__-52" target="-lMbpu8mmSJ0wREfCh__-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-lMbpu8mmSJ0wREfCh__-52" value="«component»&lt;br&gt;&lt;b&gt;Inventario Api Gateway&lt;/b&gt;" style="html=1;dropTarget=0;strokeColor=#B09500;strokeWidth=1;fillColor=#e3c800;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="-lMbpu8mmSJ0wREfCh__-52" value="«component»&lt;br&gt;&lt;b&gt;Inventario Api Gateway&lt;/b&gt;" style="html=1;dropTarget=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="1638" y="310" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="-lMbpu8mmSJ0wREfCh__-53" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=#000000;strokeWidth=1;fillColor=#e3c800;fontColor=#000000;" vertex="1" parent="-lMbpu8mmSJ0wREfCh__-52">
+        <mxCell id="-lMbpu8mmSJ0wREfCh__-53" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;" vertex="1" parent="-lMbpu8mmSJ0wREfCh__-52">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
@@ -268,10 +268,10 @@
         <mxCell id="-lMbpu8mmSJ0wREfCh__-56" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#36393d;fillColor=#ffcccc;" vertex="1" parent="1">
           <mxGeometry x="1700" y="430" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-lMbpu8mmSJ0wREfCh__-59" value="«component»&lt;br&gt;&lt;b&gt;Ventas Api Gateway&lt;/b&gt;" style="html=1;dropTarget=0;strokeColor=#B09500;strokeWidth=1;fillColor=#e3c800;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="-lMbpu8mmSJ0wREfCh__-59" value="«component»&lt;br&gt;&lt;b&gt;Ventas Api Gateway&lt;/b&gt;" style="html=1;dropTarget=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="430" y="590" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="-lMbpu8mmSJ0wREfCh__-60" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=#000000;strokeWidth=1;fillColor=#e3c800;fontColor=#000000;" vertex="1" parent="-lMbpu8mmSJ0wREfCh__-59">
+        <mxCell id="-lMbpu8mmSJ0wREfCh__-60" value="" style="shape=module;jettyWidth=8;jettyHeight=4;strokeColor=#000000;strokeWidth=1;fillColor=#D4E1F5;fontColor=#000000;" vertex="1" parent="-lMbpu8mmSJ0wREfCh__-59">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
