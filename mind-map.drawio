@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-06T15:06:46.927Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="nZfoeecgih0HxaAbmvO7" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-06T15:20:51.200Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="T4Adea_O-R5v6N5UGqls" version="21.2.1" type="github">
   <diagram name="Page-1" id="XqPYj9-Z0o4p-7petW7G">
     <mxGraphModel dx="1026" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -16,8 +16,50 @@
         <mxCell id="t0FGLv_1VrpPKd_lgGjD-6" value="" style="shape=mxgraph.signs.safety.high_voltage_2;html=1;pointerEvents=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="510" y="300" width="40" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="t0FGLv_1VrpPKd_lgGjD-7" value="Vivo en Chile í ¼í·¨í ¼í·±" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="t0FGLv_1VrpPKd_lgGjD-7" value="Vivo en Chile, Santiago í ¼í·¨í ¼í·±" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="460" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t0FGLv_1VrpPKd_lgGjD-8" value="" style="shape=mxgraph.signs.safety.high_voltage_2;html=1;pointerEvents=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;rotation=-165;" vertex="1" parent="1">
+          <mxGeometry x="620" y="310" width="40" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="t0FGLv_1VrpPKd_lgGjD-9" value="Me apasiona la programaciÃ³n y desarrollo de software í ¾í´“" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="610" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t0FGLv_1VrpPKd_lgGjD-10" value="" style="shape=mxgraph.signs.safety.high_voltage_2;html=1;pointerEvents=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;rotation=-135;" vertex="1" parent="1">
+          <mxGeometry x="690" y="360" width="40" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="t0FGLv_1VrpPKd_lgGjD-11" value="Me graduÃ© como Ingeniero de Sistemas y especialista en desarrollo de software" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="750" y="300" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="t0FGLv_1VrpPKd_lgGjD-12" value="" style="shape=mxgraph.signs.safety.high_voltage_2;html=1;pointerEvents=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="720" y="440" width="40" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="t0FGLv_1VrpPKd_lgGjD-13" value="Me importa mi familia y que ellos esten bien, vivo con mi pareja í ½í±«" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="800" y="454.5" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="t0FGLv_1VrpPKd_lgGjD-14" value="" style="shape=mxgraph.signs.safety.high_voltage_2;html=1;pointerEvents=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;rotation=-60;" vertex="1" parent="1">
+          <mxGeometry x="700" y="500" width="40" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="t0FGLv_1VrpPKd_lgGjD-15" value="Trabajo como Desarrollador full stack Senior en Walmart Chile â˜€ï¸" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="780" y="560" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="t0FGLv_1VrpPKd_lgGjD-16" value="A parte de la maestria tambien estoy estudiando ingles í ¼í·ºí ¼í·¸" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="685" y="650" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="t0FGLv_1VrpPKd_lgGjD-17" value="" style="shape=mxgraph.signs.safety.high_voltage_2;html=1;pointerEvents=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;rotation=-30;" vertex="1" parent="1">
+          <mxGeometry x="645" y="539" width="40" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="t0FGLv_1VrpPKd_lgGjD-18" value="Valores: Honestidad, responsabilidad, perseverancia, colaborador, me gusta ayudar y estudiar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="660" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="t0FGLv_1VrpPKd_lgGjD-19" value="" style="shape=mxgraph.signs.safety.high_voltage_2;html=1;pointerEvents=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="560" width="40" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="t0FGLv_1VrpPKd_lgGjD-22" value="" style="shape=mxgraph.signs.safety.high_voltage_2;html=1;pointerEvents=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;rotation=25;" vertex="1" parent="1">
+          <mxGeometry x="470" y="539" width="40" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="t0FGLv_1VrpPKd_lgGjD-23" value="Intereses: Video juegos í ¼í¾®, Estudios í ¾í´“, ejercicio í ½í²ªí ¼í¿», viajar âœˆï¸, tecnologia í ½í²», la cocinaí ½í±¨â€í ¼í½³, baloncesto í ¼í¿€" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350" y="659" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
